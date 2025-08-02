@@ -1,5 +1,5 @@
 Hi, I'm wakeyjakey!
-I like doing random stuff on coding websites and also importing files from home to school!
+I have some limited knolage of html and luau!!
 he/him
 
 <!---
