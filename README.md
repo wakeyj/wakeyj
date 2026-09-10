@@ -1,6 +1,6 @@
-Hi, I'm wakeyjakey!
-I have some limited knolage of html and luau!!
-he/him
+# helloe, i am the j who is wake
+
+i mainly have some very limited knowledge of luau (roblox), please don't ask me to collaborate with coding lol
 
 <!---
 wakeyjakey/wakeyjakey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
